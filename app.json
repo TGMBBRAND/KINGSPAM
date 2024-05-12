@@ -1,8 +1,8 @@
 
 {
-    "name": "KING-𝚂𝙿𝙰𝙼-𝙱𝙾𝚃",
+    "name": "SHIVA-𝚂𝙿𝙰𝙼-𝙱𝙾𝚃",
     "description": "MOST POWERFUL + STABLE SPAMBOTS",
-    "logo": "https://te.legra.ph/file/2e2f78610814092d61103.jpg",
+    "logo": "https://telegra.ph/file/afaf9fe60aec47093a00a.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -10,9 +10,9 @@
         "deadlybot",
         "SpamBots"
     ],
-    "repository": "https://github.com/WCGKING/KINGSPAM",
-    "website": "https://t.me/BRANDED_KHUSHI",
-    "success_url": "https://t.me/BRANDED_WORLD",
+    "repository": "https://github.com/TGMBBRAND/KINGSPAM",
+    "website": "https://t.me/LOVE_YOU_ZINDAGI3",
+    "success_url": "https://t.me/TEL_EGRAM_WALI_MAST",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
@@ -21,7 +21,7 @@
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "https://te.legra.ph/file/2e2f78610814092d61103.jpg",
+        "value": "https://telegra.ph/file/afaf9fe60aec47093a00a.jpg",
         "required": false
       },
       "API_HASH": {
