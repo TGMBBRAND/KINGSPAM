@@ -11,8 +11,8 @@
         "SpamBots"
     ],
     "repository": "https://github.com/TGMBBRAND/KINGSPAM",
-    "website": "https://t.me/LOVE_YOU_ZINDAGI3",
-    "success_url": "https://t.me/TEL_EGRAM_WALI_MAST",
+    "website": "https://t.me/MID_NIGHT_WORLD",
+    "success_url": "https://t.me/MID_NIGHT_WORLD",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
